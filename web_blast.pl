@@ -1,4 +1,4 @@
-e strict;
+use strict;
 use warnings;
 use Bio::Tools::Run::RemoteBlast;
 my $prog='blastn';
